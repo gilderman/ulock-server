@@ -1,0 +1,8 @@
+{
+  "CLIENT_ID": <your client id>
+  "CLIENT_SECRET": <your client secret>
+  "PORT": 9501,
+  "DEVICE_ID": <your device id>
+  "TRACE_API": true
+  "LOGGER": true
+}
